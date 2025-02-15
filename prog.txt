@@ -1,0 +1,109 @@
+﻿{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 32,
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "Hi! 'Term'  PIER\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "A VERTICAL SUPPORT FOR A BRIDGE\n"
+     ]
+    }
+   ],
+   "source": [
+    "Term = {\n",
+    "    \"SOIL MECHANICS\":\"THE STUDY OF HOW SOIL BEHAVES\",\n",
+    "    \"BEARING CAPACITY\": \"HOW MUCH WEIGHT SOIL CAN HANDLE\",\n",
+    "    \"COMPACTION\": \"PRESSING SOIL TO MAKE IT STRONGER\",\n",
+    "    \"SETTLEMENT\": \"HOW MUCH A BUILDING SINKS OVER TIME\",\n",
+    "    \"GEOTEXTILE\": \"A FABRIC USED TO STABILIZE SOIL\",\n",
+    "    \"PILE FOUNDATION\": \"DEEP FOUNDATIONS MADE OF LONG COLUMNS\",\n",
+    "    \"SHALLOW FOUNDATION\": \"A FOUNDATION NEAR THE SURFACE\",\n",
+    "    \"SLOPE STABILITY\": \"HOW WELL A HILL RESISTS LANDSLIDES\",\n",
+    "    \"GROUTING\": \"INJECTING MATERIAL INTO SOIL TO STRENGTHEN IT\",\n",
+    "    \"TOPOGRAPHIC SURVEY\" : \"MAPPING THE SHAPE OF THE LAND\",\n",
+    "    \"LEVELING\": \"MEASURING HEIGHT DIFFERENCES IN LAND\",\n",
+    "    \"BENCHMARK\": \"A REFERENCE POINT FOR ELEVATION\",\n",
+    "    \"TOTAL STATION\" : \"A TOOL FOR MEASURING ANGLES AND DISTANCES\",\n",
+    "    \"GPS SURVEYING\": \"USING SATELLITES TO MEASURE LAND POSITIONS\",\n",
+    "    \"COUNTOR LINES\": \"LINES ON A MAP SHOWING ELEVATION\",\n",
+    "    \"RIGHT-OF-WAY\": \"THE LEGAL RIGHT TO PASS THROUGH LAND\",\n",
+    "    \"EASEMENT\": \"PERMISSION TO USE SOMEONE’S LAND FOR UTILITIES\",\n",
+    "    \"SETBACK\" : \"THE MINIMUM DISTANCE A BUILDING MUST BE FROM A PROPERTY LINE\",\n",
+    "    \"ZONING\" : \"LAWS CONTROLLING LAND USE\",\n",
+    "    \"PAVEMENT\" : \"A HARD SURFACE FOR ROADS\",\n",
+    "    \"ASPHALT\" :  \"A BLACK, STICKY MATERIAL USED FOR ROADS\",\n",
+    "    \"CONCRETE ROAD\" : \"A ROAD MADE OF CONCRETE INSTEAD OF ASPHALT\",\n",
+    "    \"EXPANSION JOINT\" : \"A GAP IN ROADS OR BRIDGES TO ALLOW MOVEMENT\",\n",
+    "    \"SUPERSTRUCTURE\" : \"THE PART OF A BRIDGE ABOVE WATER\",\n",
+    "    \"SUBSTRUCTURE\" : \"THE PART OF A BRIDGE BELOW WATER\",\n",
+    "    \"ABUTMENT\" : \"THE SUPPORT AT THE ENDS OF A BRIDGE\",\n",
+    "    \"PIER\" : \"A VERTICAL SUPPORT FOR A BRIDGE\",\n",
+    "    \"SPAN\" : \"THE DISTANCE BETWEEN TWO BRIDGE SUPPORTS\",\n",
+    "    \"GRADE\" : \"THE SLOPE OF A ROAD\",\n",
+    "}\n",
+    "a = input(\"Hi! 'Term' \")\n",
+    "print(Term[a])"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python 3 (ipykernel)",
+   "language": "python",
+   "name": "python3"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.11.0"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 4
+}
